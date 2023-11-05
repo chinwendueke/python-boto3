@@ -1,0 +1,3 @@
+python-jenkins #This module(software) must be installed for this script to run successfully
+boto3
+requests
